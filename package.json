@@ -1,0 +1,8 @@
+{
+  "name": "heroku_demo",
+  "description": "simple app to demo heroku github synch",
+  "version": "0.0.2",
+  "private": true,
+  "engines" : { "node" : "*" },
+  "dependencies": { }
+}
